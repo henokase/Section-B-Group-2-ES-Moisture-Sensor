@@ -1,6 +1,6 @@
 # Section-B-Group-2-ES-Moisture-Sensor
 
-##GROUP MEMBERS
+## GROUP MEMBERS
  1. Fissiha Akele --- ETS0675/14
  2. Haylemeskel Haylemaryam --- ETS0756/14
  3. Gelead Worku --- ETS0689/14
